@@ -7,13 +7,38 @@ body {
     font-family: 'Comfortaa', sans-serif, Arial;
     font-size: 60px;
     color: white;
-    padding: 30px;
+    padding-top: 50px;
+    padding-bottom: 100px;
 }
-label {
+.label1 {
     font-family: 'Comfortaa', sans-serif, Arial;
     color: white;
+    font-size: 22px;
+}
+.label2 {
+    font-family: 'Comfortaa', sans-serif, Arial;
+    color: white;
+    font-size: 16px;
 }
 .subtext {
     font-family: 'Comfortaa', sans-serif, Arial;
     color: white;
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+#email {
+    height: 22px;
+    width: 245px;
+}
+#submit {
+    background-color: #15b6df;
+    font-family: 'Comfortaa';
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
 }
